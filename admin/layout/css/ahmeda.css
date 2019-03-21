@@ -1,0 +1,113 @@
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 52px;
+}
+.btn-block{
+width: 25%
+}
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+.form-control{
+    margin-bottom: 5px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: red;
+    background-color: #ffc208;
+}
+a {
+    background-color: #07b11f69;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #00000038;
+}
+body {
+   background-image: url("back.jpg");
+   
+   /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-form .form-control{
+    margin: 1px;
+    background-color: red;
+}
+.ahmed {
+    display: block;
+    width: 75%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 279.428571;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 37px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+     margin-left: 220px;
+     margin-top: 56px;
+        height: 98px;
+}
+.center-block{
+    width: 36%;
+}
+.yehia{
+background-image: url("back.jpg");
+   background-color: #cccccc;
+
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    margin: auto;
+    margin: auto;
+    margin: auto;
+    margin: auto;
+    margin: auto;
+    margin: auto;
+    height: 400px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    padding: 8px;
+    color: red;
+    padding-top: -3px;
+    padding-top: -2px;
+    margin-top: 8px;
+    padding-bottom: 4px;
+    padding-top: -2px;
+    background-color: #ffc208;
+    padding: -110px;
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a {
+    padding: 8px;
+    color: red;
+    font-style: oblique;
+    padding-top: -3px;
+    font-size: 18px;
+    padding-top: -2px;
+    margin-top: 8px;
+    padding-bottom: 4px;
+    padding-top: -2px;
+    background-color: #ffc208;
+    padding: -110px;
+}

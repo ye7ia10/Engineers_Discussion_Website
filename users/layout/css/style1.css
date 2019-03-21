@@ -1,0 +1,39 @@
+.login{
+	width: 300px;
+	margin: 100px auto;
+}
+.form-control{
+	margin-bottom: 5px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #8e5c5c;
+}
+a {
+    background-color: #2937aa33;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #00000038;
+}
+.navbar-form .form-control{
+	margin: 1px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: red;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #c40c0c;
+}
+.navbar-inverse .navbar-nav > li > a {
+    
+    color: #c40c0c;
+    padding-left: 25px;
+    margin-left: 18px;
+    margin-right: 19px;
+    padding-right: 25px;
+
+}
